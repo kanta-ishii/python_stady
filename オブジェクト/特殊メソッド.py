@@ -1,4 +1,5 @@
 '''
+object.__repr__(self)
 object.__lt__(self, other)
 object.__le__(self, other)
 object.__eq__(self, other)
@@ -7,6 +8,7 @@ object.__gt__(self, other)
 object.__ge__(self, other)
 これらはいわゆる "拡張比較 (rich comparison)" メソッドです。
 演算子シンボルとメソッド名の対応は以下の通りです
+    object → __repr__に定義されたものが呼べ出される
     x<y   → x.__lt__(y) を呼び出します; 
     x<=y  → x.__le__(y) を呼び出します; 
     x==y  → x.__eq__(y) を呼び出します; 
@@ -19,6 +21,9 @@ object.__ge__(self, other)
 class Num:
     def __init__(self,x):
         self.__x = x
+
+    def __repr__(self):
+        print('オブジェクト思考')
 
     def __lt__(self, other):
         return self.__x < other
@@ -40,6 +45,7 @@ class Num:
 
 x = Num(100)
 print(
+    x,
     x < 1000,
     x <= 10,
     x == 10,
