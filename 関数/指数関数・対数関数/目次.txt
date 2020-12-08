@@ -3,3 +3,5 @@
 平方根（ルート）: math.sqrt()
 指数関数（自然指数関数）: math.exp()
 対数関数: math.log(), math.log10(), math.log2()
+    常用対数 : math.log10()
+    二進数対数 : math.log2()
