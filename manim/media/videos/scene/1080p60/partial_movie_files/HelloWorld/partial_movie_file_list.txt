@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/450974505_123398499_223132457.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/450974505_233032812_2488189666.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_123398499_817619767.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_2043549274_2488189666.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_123398499_3445843908.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_1748432608_966574629.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_649475845_1539018654.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_4180579860_2037955051.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_3531891685_1539018654.mp4'
+file 'file:/Users/k428/Desktop/Mypython_doc/manim/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2788726626_4180579860_2737094719.mp4'
